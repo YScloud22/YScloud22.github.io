@@ -1,3 +1,3 @@
 Dimension by HTML5 UP
 
-##### Yingkit Shi Web Portfolio
+Yingkit Shi's Web Portfolio
